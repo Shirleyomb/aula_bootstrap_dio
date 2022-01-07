@@ -1,0 +1,141 @@
+.navbar {
+    background-color: #0a2233;  
+}
+
+
+.collapse .navbar-nav .nav-item a {
+    color: #F7F7F7
+}
+
+.navbar .navbar-brand {
+    margin-inline-start: 5%;
+    margin-inline-end: 5%;
+}
+
+.nav-item {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 23px;
+}
+
+
+.quem-sou {
+    background-image: linear-gradient(rgba(0,0,0,.30), rgba(0,0,0,.30)100%), url('img/fundo2.svg');
+    background-size: cover;   
+}
+
+.quem-sou h2 {
+    font-family:Georgia, "Times New Roman", Times, serif;
+    font-size: 2em;
+    font-style:italic;
+    color: #F7F7F7;
+    text-shadow: black 0.1em 0.1em 0.2em
+
+    
+}
+
+.quem-sou h5, p {
+    color: #F7F7F7;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+
+.trabalhos-prontos {
+    background-image: url('img/fundo1.png');
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+
+.trabalhos-prontos h2 {
+    font-family:Georgia, "Times New Roman", Times, serif;
+    font-size: 2em;
+    font-style:italic;
+    color:#000000; 
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.trabalhos-em-andamento {
+    background-image: url('img/fundo3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.trabalhos-em-andamento h2 {
+    font-family:Georgia, "Times New Roman", Times, serif;
+    font-size: 2em;
+    font-style:italic;
+    color:#000000;
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.trabalhos-em-andamento p {
+    color: #000000;
+}
+.bg-footer {
+    background-color: #234a66; 
+    color: #F7F7F7;
+   
+}
+
+.contato {
+    background-image: url('img/fundo4.png');
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+
+.contact-form{
+    background: #fff;
+    margin-bottom: 5%;
+    width: 70%;
+}
+.contact-form .form-control{
+    border-radius:1rem;
+    margin-top: 3%;
+}
+.contact-image{
+    text-align: center;
+    padding-top: 2%;
+}
+.contact-image img{
+    border-radius: 6rem;
+    width: 11%;
+    margin-top: -3%;
+}
+.contact-form form{
+    padding: 14%;
+}
+.contact-form form .row{
+    margin-bottom: -7%;
+}
+.contact-form h3{
+    margin-bottom: 8%;
+    margin-top: -15%;
+    text-align: center;
+    color: #0062cc;
+}
+.contact-form .btnContact {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    width: 50%;
+    border: none;
+    border-radius: 1rem;
+    padding: 1.5%;
+    background: #dc3545;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+}
+.btnContactSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    color: #fff;
+    background-color: #0062cc;
+    border: none;
+    cursor: pointer;
+}
